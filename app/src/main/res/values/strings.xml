@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">gomoku-game</string>
+    <string name="placement">착수</string>
+    <string name="black_win">흑돌 승리</string>
+    <string name="white_win">흰돌 승리</string>
+    <string name="restart_game">다시 시작</string>
+    <string name="violation_three_three">3-3 상황이 발생했습니다.</string>
 </resources>
